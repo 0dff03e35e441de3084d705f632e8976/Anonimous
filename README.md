@@ -59,7 +59,8 @@ Subsistema Windows para Linux é um módulo do sistema operacional Windows 10, q
 
 Neste exemplo vou falar do Ubuntu 18.04 LTS, clique em Obter. Você será redirecionado para Loja da Microsoft, clique em Obter novamente, um aviso irar aparecer informando para entrar com sua conta Microsoft, se já estiver logado com sua conta Microsoft prossiga ou se não quiser entrar com sua conta Microsoft clique em Não obrigado.
 
-![PRIVOXY + TOR ANONIMATO NO WINDOWS](https://www.youtube.com/watch?v=ndQ2zfniHns)
+![PRIVOXY + TOR ANONIMATO NO WINDOWS]
+(https://www.youtube.com/watch?v=ndQ2zfniHns)
 
 Para melhorar a privacidade da sua sessão VPN, e por ser legal, o túnel lhe dão a opção de filtrar seu tráfego HTTP(s) através de Privoxy e Tor.
 
