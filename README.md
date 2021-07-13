@@ -51,16 +51,15 @@ Você pode colocar estes serviços para serem iniciados durante o boot com o com
 
 ![Proxy](https://static.imasters.com.br/wp-content/uploads/2018/06/06105459/Maan.jpg)
 
-![ATIVANDO SUBSISTEMA DO WINDOWS PARA LINUX](https://www.youtube.com/watch?v=NU5eZbyogW0)
+![ATIVANDO SUBSISTEMA DO WINDOWS PARA LINUX] -> (https://www.youtube.com/watch?v=NU5eZbyogW0)
 
 Subsistema Windows para Linux é um módulo do sistema operacional Windows 10, que visa a disponibilizar um ambiente Linux compatível no sistema da Microsoft, de forma que se possam executar programas (baseados em texto) nativos dos sistemas GNU/Linux dentro do próprio Windows sem a necessidade de emuladores ou do uso de máquinas virtuais. [1]
 
-![INSTALANDO LINUX WSL NO WINDOWS](https://www.youtube.com/watch?v=i-l69xigO4k)
+![INSTALANDO LINUX WSL NO WINDOWS] -> (https://www.youtube.com/watch?v=i-l69xigO4k)
 
 Neste exemplo vou falar do Ubuntu 18.04 LTS, clique em Obter. Você será redirecionado para Loja da Microsoft, clique em Obter novamente, um aviso irar aparecer informando para entrar com sua conta Microsoft, se já estiver logado com sua conta Microsoft prossiga ou se não quiser entrar com sua conta Microsoft clique em Não obrigado.
 
-![PRIVOXY + TOR ANONIMATO NO WINDOWS]
-(https://www.youtube.com/watch?v=ndQ2zfniHns)
+![PRIVOXY + TOR ANONIMATO NO WINDOWS] -> (https://www.youtube.com/watch?v=ndQ2zfniHns)
 
 Para melhorar a privacidade da sua sessão VPN, e por ser legal, o túnel lhe dão a opção de filtrar seu tráfego HTTP(s) através de Privoxy e Tor.
 
