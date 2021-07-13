@@ -51,3 +51,11 @@ Você pode colocar estes serviços para serem iniciados durante o boot com o com
 
 ![Proxy](https://static.imasters.com.br/wp-content/uploads/2018/06/06105459/Maan.jpg)
 
+![ATIVANDO SUBSISTEMA DO WINDOWS PARA LINUX](https://www.youtube.com/watch?v=NU5eZbyogW0)
+
+![INSTALANDO LINUX WSL NO WINDOWS](https://www.youtube.com/watch?v=i-l69xigO4k)
+
+![PRIVOXY + TOR ANONIMATO NO WINDOWS](https://www.youtube.com/watch?v=ndQ2zfniHns)
+
+
+
